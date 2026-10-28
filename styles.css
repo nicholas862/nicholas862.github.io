@@ -4,6 +4,10 @@ body {
 h1 {  font-family: "Bebas Neue", sans-serif;
   color: darkgreen;
 }
+
+h2 {  font-family: "Bebas Neue", sans-serif;
+  color: darkgreen;
+}
 p {
   color: green;
 }
@@ -15,5 +19,4 @@ p {
 }
 
 #about-me {  font-family: "Lobster", sans-serif;
-  font-family: L, Helvetica, sans-serif; /** you can specify common font families OR link to a Google Font API **/
 }
