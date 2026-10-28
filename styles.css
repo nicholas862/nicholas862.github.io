@@ -11,12 +11,6 @@ h2 {  font-family: "Bebas Neue", sans-serif;
 p {
   color: green;
 }
-/** CSS comments are written enclosed with these characters **/
-
-
-.myclass {
-  background-color: #fff7e8; /** hex codes also work for colors **/
-}
 
 #about-me {  font-family: "Lobster", sans-serif;
 }
