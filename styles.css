@@ -1,11 +1,11 @@
 body {
-  background-color: powderblue;
+  background-color: limegreen;
 }
-h1 {
-  color: blue;
+h1 {  font-family: "Bebas Neue", sans-serif;
+  color: darkgreen;
 }
 p {
-  color: red;
+  color: green;
 }
 /** CSS comments are written enclosed with these characters **/
 
@@ -14,6 +14,6 @@ p {
   background-color: #fff7e8; /** hex codes also work for colors **/
 }
 
-#unique-id {
-  font-family: Arial, Helvetica, sans-serif; /** you can specify common font families OR link to a Google Font API **/
+#about-me {  font-family: "Lobster", sans-serif;
+  font-family: L, Helvetica, sans-serif; /** you can specify common font families OR link to a Google Font API **/
 }
